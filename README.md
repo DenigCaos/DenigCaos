@@ -4,35 +4,16 @@
 
 ## Introduction
 
-I am a graphic design technician with solid experience in administrative roles and call centers. Throughout my career, I have developed competencies in a wide range of functions, including customer service, filing, pagination, labeling, classification, digitization, and correspondence handling. My experience also covers email management, handling of PQRS (Petitions, Complaints, Claims, and Suggestions), data entry in systems, application management, and call reception.
+I am a QA Engineer with a solid knowledge of quality assurance principles and processes in software development (requirements analysis, test designs, test cases, API, SQL, Jira) as well as mobile applications ( Android Studio). I have gained a solid understanding of the basic principles of software engineering and quality assurance practices. My meticulous approach, my ability to analyze user requirements in detail, and my ability to identify and report errors have provided me with a solid foundation to enter the field of software testing. With a thorough, detail-oriented approach, I strive to ensure delivering high quality products that meet the most demanding standards.
 
 ## Experience
 
-### Performed Functions
-- **Customer Service**: Providing support and assistance to customers, resolving queries, and managing requests.
-- **Filing and Pagination**: Organization and management of physical and digital documents.
-- **Labeling and Classification**: Handling correspondence and documents, ensuring proper categorization.
-- **Digitization**: Conversion of physical documents to digital formats.
-- **Email Management**: Administration of email accounts, responding to inquiries, and managing communications.
-- **PQRS Management**: Processing and tracking of Petitions, Complaints, Claims, and Suggestions.
-- **Data Entry in Systems**: Capturing and updating data in various computer systems.
-- **Call Reception**: Answering phone calls and directing them to the appropriate departments.
-- **Information Analysis**: Evaluation and processing of data for decision-making.
-- **Document Validation**: Verification and authentication of documents.
-- **Database Management and Update**: Managing and updating information in databases.
-- **Cash Handling**: Managing financial transactions and cash register.
-- **Payroll Support**: Assisting in the preparation and processing of payroll.
-- **Billing and Collections**: Issuing invoices and following up on accounts receivable.
-- **Flat File Creation**: Creating and managing flat files.
-- **Bank Portal and Supplier Management**: Managing transactions and relationships with suppliers.
+Academic training
+TRIPLETEN: Tripleten's QA engineer program is a five-month course. It covers requirements analysis, test cases, JIRA, API, POSTMAN, ANDROID, STUDIO, SQL, PYTHON, AUTOMATION
 
 ## Skills
 
-- **Service Attitude**: Commitment to customer satisfaction and quality service.
-- **Adaptability**: Ability to adjust to new situations and work environments.
-- **Attention to Detail**: Meticulousness in task execution.
-- **Teamwork**: Effective collaboration with colleagues and other departments.
-- **Resourcefulness**: Creativity and efficiency in problem-solving.
+Requirements analysis - test cases - Mobile Testing - API Testing - UI Testing - smoke testing - Regression testing - Agile - Console - JSON - DevTools.
 
 
 ## Experience as QA Engineer
