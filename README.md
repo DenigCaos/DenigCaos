@@ -1,8 +1,5 @@
 ## Hi there my name is DIEGO ALEJANDRO MENDOZA
 
-<!--
-**DenigCaos/DenigCaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Professional Profile
 
 ## Introduction
