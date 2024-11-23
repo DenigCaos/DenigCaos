@@ -9,7 +9,7 @@ I am a QA Engineer with a solid knowledge of quality assurance principles and pr
 ## Experience
 
 Academic training
-TRIPLETEN: Tripleten's QA engineer program is a five-month course. It covers requirements analysis, test cases, JIRA, API, POSTMAN, ANDROID, STUDIO, SQL, PYTHON, AUTOMATION
+TRIPLETEN: Tripleten's QA engineer program is a five-month course. It covers requirements analysis, test cases, JIRA, API, POSTMAN, ANDROID STUDIO, SQL, PYTHON, AUTOMATION
 
 ## Skills
 
